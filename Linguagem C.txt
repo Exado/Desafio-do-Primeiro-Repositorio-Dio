@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+    // site usado para fazer o codigo (https://www.onlinegdb.com/online_c_compiler)
 int main()
 {
     // Declarando variáveis de Input
